@@ -1,0 +1,5 @@
+n1 = float(input('parede em altura:'))
+n2 = float(input('parede em largura:'))
+metro = (n1 * n2 )
+print('Sua dimensão de {}x{} é equivalente a área de {}m².'.format(n1, n2 , metro))
+
