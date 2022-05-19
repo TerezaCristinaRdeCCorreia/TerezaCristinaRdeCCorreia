@@ -1,4 +1,4 @@
 Valor = int(input('Digite um numero :'))
-VAlor2 = "{0:b}".format(Valor)
+Valor2 = "{0:b}".format(Valor)
 print('Você digitou um numero inteiro:{}'.format(Valor))
-print('A conversão para base primaria é:{}'.format(VAlor2))
+print('A conversão para base primaria é:{}'.format(Valor2))
